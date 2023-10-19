@@ -28,4 +28,5 @@ jobs:
         push: true
         tags: jonasleopoldren/python-helloworld:latest
         file: Dockerfile
+        platforms: linux/amd64,linux/arm64
 
